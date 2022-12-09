@@ -1,4 +1,8 @@
 # Personal PortFolio APP
+Techonology Use : React Js
+
+<h3>Project Explanation video :</h3>
+https://www.loom.com/share/e851b725cb2643788c8cc5cb37c415ae
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
